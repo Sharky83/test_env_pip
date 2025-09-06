@@ -1,6 +1,12 @@
-# requirements.txt for pip
+
+
+# Known vulnerable packages for pip-audit testing
 requests==2.31.0
 flask==3.0.3
 pyjwt==2.8.0
-# Add a known vulnerable package for testing
 insecure-package==0.1.0
+flask==0.5
+django==1.2
+cryptography==2.1.4
+urllib3==1.25.2
+jinja2==2.7.2
