@@ -1,0 +1,6 @@
+# requirements.txt for pip
+requests==2.31.0
+flask==3.0.3
+pyjwt==2.8.0
+# Add a known vulnerable package for testing
+insecure-package==0.1.0
